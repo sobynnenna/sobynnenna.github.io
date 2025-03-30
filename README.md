@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 # sobynnenna.github.io
 # heading 1
 ## heading 2
